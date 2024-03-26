@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CLR\CLR\bin\Debug\net6.0\CLR.exe
+C:\Users\Admin\source\repos\CLR\CLR\bin\Debug\net6.0\CLR.deps.json
+C:\Users\Admin\source\repos\CLR\CLR\bin\Debug\net6.0\CLR.runtimeconfig.json
+C:\Users\Admin\source\repos\CLR\CLR\bin\Debug\net6.0\CLR.dll
+C:\Users\Admin\source\repos\CLR\CLR\bin\Debug\net6.0\CLR.pdb
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\CLR.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\CLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\CLR.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\CLR.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\CLR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\CLR.dll
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\refint\CLR.dll
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\CLR.pdb
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\CLR.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CLR\CLR\obj\Debug\net6.0\ref\CLR.dll
